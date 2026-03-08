@@ -1,0 +1,13 @@
+=== RAPPORT DE PERFORMANCE ===
+Date: 2026-03-08 04:04:16
+=================================
+
+Test: Recherche de salles disponibles
+Temps d'exécution: 22ms
+Nombre de requêtes: 1
+Entités chargées: 25
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 15
+----------------------------------
+
