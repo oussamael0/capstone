@@ -7,6 +7,6 @@
 <img src="screnshot/Screenshot 2026-03-08 035605.png" width="300" />
 <img src="screnshot/Screenshot 2026-03-08 040510.png" width="300" />
 <img src="screnshot/Screenshot 2026-03-08 040538.png" width="300" />
-<img src="screnshot/Screenshot 2026-03-08 040628.png" width="400" />
+<img src="screnshot/Screenshot 2026-03-08 040628.png" width="700" />
 
 
